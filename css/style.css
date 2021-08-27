@@ -60,7 +60,7 @@ td {
     padding: 5px;
 }
 
-table td, table th, table th{
+table td, table th, table tr{
   border: 1px solid #ddd;
 }
 
