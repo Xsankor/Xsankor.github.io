@@ -56,11 +56,8 @@ table {
     border: 1px solid grey;
 }
 
-td {
-    padding: 5px;
-}
-
-table td, table th, table tr{
+table td, table th{
+  padding: 5px;
   border: 1px solid #ddd;
 }
 
